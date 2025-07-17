@@ -20,10 +20,15 @@ I'm a Vietnamese girl :))). I desire to become a billionaire and a cat servant (
 
 Technologies I've been learning :
 - 🖥️ Web <br>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,threejs,vite,webpack,nodejs,express,java,spring,mongodb,mysql,postgres,npm,maven,figma)](https://skillicons.dev)
+
 - 🧠 Machine Learning & DA <br>
+
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hadoop,kaggle,kafka,jupyter,python,spark,docker,cassandra)](https://go-skill-icons.vercel.app)
+
 - ☠️ Others <br>
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,github,idea,matlab,notion,sqlite,vscode)](https://skillicons.dev)
 
 
