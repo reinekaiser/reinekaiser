@@ -24,4 +24,5 @@ Technologies I've been learning :
 - 🧠 Machine Learning & DA (something I used to learn)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hadoop,kaggle,kafka,jupyter,python,spark,docker,cassandra)](https://go-skill-icons.vercel.app)
 - ☠️ Others
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,github,idea,matlab,notion,sqlite,vscode)](https://skillicons.dev)
