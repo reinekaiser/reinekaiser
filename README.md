@@ -29,6 +29,6 @@ Technologies I've been learning :
 
 ## Click here to listen with me 🎧
 
-[![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/reineww)
+[![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31oqvshedssbykb4my55ve74copu)
 
 <br/>
