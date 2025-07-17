@@ -29,5 +29,5 @@ Technologies I've been learning :
 
 ## Click here to listen with me 🎧
 
-[![Spotify](https://novatorem-eauhu8mm0-reines-projects-0d50c3ce.vercel.app/api/spotify)](https://open.spotify.com/user/reinekaiser)
+[![Spotify](https://novatorem-eauhu8mm0-reines-projects-0d50c3ce.vercel.app/api/spotify)](https://open.spotify.com/user/31rqe6zofxjuxhlgaqzeker5vu3e)
 <br/>
