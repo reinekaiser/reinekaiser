@@ -38,3 +38,6 @@ Technologies I've been learning :
 [![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31oqvshedssbykb4my55ve74copu)
 
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
