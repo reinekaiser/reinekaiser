@@ -6,7 +6,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF69B4&width=500&lines=Hello+my+dear%2C+it's+Quyen;Allow+me+to+extend+my+warmest+greetings" alt="Quyen"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF69B4&width=600&lines=Hello+my+dear%2C+it's+Quyen;Allow+me+to+extend+my+warmest+greetings" alt="Quyen"/>
 </a>
 
 ## This is the way I define who I am
