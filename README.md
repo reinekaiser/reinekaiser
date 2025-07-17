@@ -23,5 +23,5 @@ Technologies I've been learning :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,threejs,vite,webpack,nodejs,express,java,spring,mongodb,mysql,postgres,npm,maven,figma)](https://skillicons.dev)
 - 🧠 Machine Learning & DA (something I used to learn)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hadoop,kaggle,kafka,jupyter,python,spark,docker,cassandra)](https://go-skill-icons.vercel.app)
-- ☠️ Others
+- ☠️ Others <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,github,idea,matlab,notion,sqlite,vscode)](https://skillicons.dev)
