@@ -15,9 +15,8 @@ I'm a Vietnamese girl :))). I desire to become a billionaire and a cat servant (
 
 - 🌱 Now I'm learning Web Technologies at university (also enjoy Machine Learning and DA)
 - 🔥 I’m highly energetic and great enthusiasm about collaborative work, particularly when I work with all my friends at school.
-- 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
 - 😍 My hobbies are listening to music, immerse myself in music and let the music wash over me :)))
 - 💌 Contact me at [reinekaiser@gmail.com](mailto:reinekaiser@gmail.com).
 
 Technologies I've been learning :
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,threejs,vite,webpack,nodejs,express,java,spring,mongodb,mysql,postgres,npm,maven,figma)](https://skillicons.dev)
