@@ -33,7 +33,8 @@ Technologies I've been learning :
 
 
 ## Click here to listen with me 🎧
+<div align="center">
 
 [![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31oqvshedssbykb4my55ve74copu)
 
-<br/>
+</div>
