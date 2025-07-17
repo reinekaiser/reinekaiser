@@ -29,5 +29,5 @@ Technologies I've been learning :
 
 ## Click here to listen with me 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31rqe6zofxjuxhlgaqzeker5vu3e)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31rqe6zofxjuxhlgaqzeker5vu3e)
 <br/>
