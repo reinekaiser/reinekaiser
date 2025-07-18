@@ -1,6 +1,6 @@
 <!--
     Hello my dear, I'm Quyen!
-    Allow me to extend my warmest greetings!    
+    Allow me to extend my warmest greetings!
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" alt="header"/> 
@@ -38,6 +38,11 @@ Technologies I've been learning :
 [![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31oqvshedssbykb4my55ve74copu)
 
 </div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
