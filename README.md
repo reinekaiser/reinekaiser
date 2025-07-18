@@ -43,7 +43,7 @@ Technologies I've been learning :
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" width="250"/>
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night" width="400"/> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" width="600"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" width="550"/>
 </p>
 
 
