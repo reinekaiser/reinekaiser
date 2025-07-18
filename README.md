@@ -47,6 +47,12 @@ Technologies I've been learning :
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" /></td>
+  </tr>
+</table>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
