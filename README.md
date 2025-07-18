@@ -39,18 +39,11 @@ Technologies I've been learning :
 
 </div>
 
-<p >
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night)
-
-</p>
-
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" width="400"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" width="300"/>
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night" width="400"/> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" width="500"/>
 </p>
 
 
