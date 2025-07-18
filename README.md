@@ -37,13 +37,15 @@ Technologies I've been learning :
 
 [![Spotify](https://novatorem-ebon-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31oqvshedssbykb4my55ve74copu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night)
-
 </div>
 
-
+<table>
+  <tr>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night)</td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night)</td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night)</td>
+  </tr>
+</table>
 
 
 
