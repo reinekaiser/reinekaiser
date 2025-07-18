@@ -41,10 +41,16 @@ Technologies I've been learning :
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" /></td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night)</td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinekaiser&theme=date_night)</td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night)</td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" />
+</p>
 
 
 
