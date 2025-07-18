@@ -48,6 +48,11 @@ Technologies I've been learning :
 </p>
 
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reinekaiser&theme=date_night" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinekaiser&theme=date_night" width="400"/>
+</p>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
