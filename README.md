@@ -11,12 +11,12 @@
 
 ## This is the way I define who I am
 
-I'm a Vietnamese girl :))). I desire to become a billionaire and a cat servant (in Vietnam people say "con sen"). 
+I'm a passionate girl. I desire to become a billionaire and a cat servant (in Vietnam people say "con sen"). 
 
 - 🌱 Now I'm learning Web Technologies at university (also enjoy Machine Learning and DA)
 - 🔥 I’m highly energetic and great enthusiasm about collaborative work, particularly when I work with all my friends at school.
-- 😍 My hobbies are listening to music, immerse myself in music and let the music wash over me :)))
-- 💌 Contact me at [reinekaiser@gmail.com](mailto:reinekaiser@gmail.com).
+- 😍 My hobbies are listening to music, immerse myself in music and let the music wash over me.
+- 💌 Contact me at [22521221@gm.uit.edu.vn](mailto:22521221@gm.uit.edu.vn).
 
 Technologies I've been learning :
 - 🖥️ Web <br>
@@ -27,7 +27,7 @@ Technologies I've been learning :
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hadoop,kaggle,kafka,jupyter,python,spark,docker,cassandra)](https://go-skill-icons.vercel.app)
 
-- ☠️ Others <br>
+- Others <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,github,idea,matlab,notion,sqlite,vscode)](https://skillicons.dev)
 
